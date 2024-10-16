@@ -1,0 +1,69 @@
+
+
+
+
+
+color--------------------
+
+black- #010101
+ash-   #898989
+yell-  #fcdb00
+
+=========================
+
+Must check these screens:
+xxl  1440
+xl   1200
+lg   1024
+
+md   768
+
+sm   576
+col  320
+
+
+header--------------
+	xxl/xl/lg 		md 			sm/col
+		22 			22
+
+
+header--------------
+		xxl/xl/lg 		   md 			sm/col	 			
+ptb 	   20			   20 			  10	
+
+
+slider--------------
+		xxl/xl/lg 		md 			sm/col
+h1         32           32            25
+h2         20           20            18
+p          16           16           16/15
+icon       42           42            35
+pb        100          100            60    ~
+
+ind                                  -60px/13px
+s_txt                                 mt-0
+h2                                    mtb-10
+p                                      mb-20
+icon                                  mr-20
+
+
+feature--------------
+	xxl/xl/lg 		md 			sm/col
+
+pt     100          80            50
+pb     120	       100            70
+
+row1--->
+h1     32                       25(mb-10)
+p      20                       17(lh-25)
+
+row2--->
+mt     70          50           30
+icon   50          50           35
+h2     22          22           28
+p      16          16           16
+
+
+
+
+
